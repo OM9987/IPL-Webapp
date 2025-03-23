@@ -104,7 +104,7 @@ ipl-stats-dashboard/
 
 ## 🖥️ Backend (.NET Core)
 
-- **ASP.NET Version**: 3.1.12
+- **.NET Version**: 8.0.14
 - **Database**: PostgreSQL 16
 
 The backend is responsible for handling all database operations, including CRUD (Create, Read, Update, Delete) operations. It also serves as the middleware, handling requests and responses between the frontend and database.
