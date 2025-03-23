@@ -35,7 +35,7 @@ A comprehensive full-stack web application that provides detailed statistics abo
 ## 💻 Tech Stack
 
 - **Frontend**: React 18.3.1
-- **Backend**: .NET Core 3.1.12
+- **Backend**: .NET Core 8.0.14
 - **Database**: PostgreSQL 16
 - **UI Libraries**: 
   - Bootstrap 5.3.3
